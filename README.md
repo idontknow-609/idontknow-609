@@ -1,6 +1,6 @@
 # Hi, I'm Kayodele! 👋 (idontknow-609)
 
->*"The more I learn, the more I realize how much I don't know."* 
+>**"The more I learn, the more I realize how much I don't know."** 
 >... I am dedicated to mastering the art of defense and going as far as the LORD allows me in this journey. 🚀
 
 ### 🛡️ Professional Statement
