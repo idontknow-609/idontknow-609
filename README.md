@@ -3,6 +3,18 @@
 ### 🛡️ Aspiring Cybersecurity Professional | Lifelong Learner
 *"The more I learn, the more I realize how much I don't know."* I am a Computer Science graduate who almost walked away from the field—until I discovered **Cybersecurity**. Now, fueled by passion and faith, I am dedicated to mastering the art of defense and going as far as the LORD allows me in this journey. 🚀
 
+### 🛡️ Professional Statement
+I am a Python-proficient Cybersecurity professional driven by a **'lifelong learner'** mindset and a deep-rooted commitment to integrity. My transition from general Computer Science was sparked by a passion for defense (not hacking) and a desire to protect the people and assets that make an organization thrive. 
+
+I specialize in bridging the gap between complex technical security and simple, actionable protection for staff and stakeholders. By leveraging my skills in **Python automation** and my interest in **GRC (Governance, Risk, and Compliance)**, I help organizations stay proactive against threats while ensuring strict adherence to international security standards. Above all, I am guided by my faith and a service-oriented heart, dedicated to securing the digital landscape as far as the LORD allows.
+
+### 🛠️ Core Strengths & Values
+| Strength | Value |
+| :--- | :--- |
+| **Python Programming** | **Uncompromising Ethics** |
+| **Time Management** | **Protective Mindset** |
+| **Fast & Adaptive Learner** | **Faith-Driven Service** |
+
 ---
 
 ### 🔍 Current Focus
