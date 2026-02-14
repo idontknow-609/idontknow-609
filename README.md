@@ -1,8 +1,7 @@
 # Hi, I'm Kayodele! 👋 (idontknow-609)
 
-### 🛡️ Cybersecurity Professional | Lifelong Learner
-*"The more I learn, the more I realize how much I don't know."* 
-Dedicated to mastering the art of defense and going as far as the LORD allows me in this journey. 🚀
+>*"The more I learn, the more I realize how much I don't know."* 
+>... I am dedicated to mastering the art of defense and going as far as the LORD allows me in this journey. 🚀
 
 ### 🛡️ Professional Statement
 I am a Python-proficient Cybersecurity professional driven by a **'lifelong learner'** mindset and a deep-rooted commitment to integrity. My transition from general Computer Science was sparked by a passion for defense (not hacking) and a desire to protect the people and assets that make an organization thrive. 
