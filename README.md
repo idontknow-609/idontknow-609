@@ -1,6 +1,6 @@
 # Hi, I'm Kayodele! 👋 (idontknow-609)
 
-### 🛡️ Aspiring Cybersecurity Professional | Lifelong Learner
+### 🛡️ Cybersecurity Professional | Lifelong Learner
 *"The more I learn, the more I realize how much I don't know."* 
 Dedicated to mastering the art of defense and going as far as the LORD allows me in this journey. 🚀
 
