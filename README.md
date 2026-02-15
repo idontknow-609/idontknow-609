@@ -1,6 +1,5 @@
-# Hi, I'm Kayodele 👋  (idontknow-609) 
-Aspiring Cybersecurity Professional | Computer Science Background  
-*"The more I learn, the more I realize how much I don't know."*
+# Hi, I'm Kayodele 👋 
+Aspiring Cybersecurity Professional | Computer Science Background 
 
 ---
 
